@@ -3776,10 +3776,10 @@ globby@^8.0.1:
     pify "^3.0.0"
     slash "^1.0.0"
 
-google-protobuf@^3.6.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.8.0.tgz#4fd2ee3a97751cb543dc5de85ffd264aff9f4980"
-  integrity sha512-tx39PTc//HaIT7K/baUF/8JYLGDozEi1e4xwPP1qSx3InP78cNpbSJpxiDsDMwj77qNOndVBDXnn7oi9zKxZew==
+google-protobuf@^3.11.1:
+  version "3.11.1"
+  resolved "https://registry.yarnpkg.com/google-protobuf/-/google-protobuf-3.11.1.tgz#c1319e5fc8579394758c8a41699f0a2e3e950c38"
+  integrity sha512-1fdyssLSa7Dip+MDdluLl0uK+2rspgU1PrbdPJKt7hywqSl3+R27TkLYKuBn9dvOyr0VQ0cliQWlfMheW5WKqA==
 
 google-protobuf@^3.6.1:
   version "3.7.1"
